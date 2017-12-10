@@ -82,20 +82,20 @@ Denis Sorokin 	| https://github.com/xprntl
 ## data souce:
 
 
-Educational attainment of the population 18 years and over, by age, sex, race, and hispanic origin
+<b>Educational attainment of the population 18 years and over, by age, sex, race, and hispanic origin</b>
 
-Data Source: US census 
-Description of available measures: Information on educational attainment, for over 18 years of age on all races.
-Time span: 2016
-Geographical coverage: U.S.
-Link: https://www.census.gov/data/tables/2016/demo/education-attainment/cps-detailed-tables.html
+Data Source: US census   
+Description of available measures: Information on educational attainment, for over 18 years of age on all races.  
+Time span: 2016  
+Geographical coverage: U.S.  
+Link: https://www.census.gov/data/tables/2016/demo/education-attainment/cps-detailed-tables.html  
 
 
-A Half - Centry of Learning: Historical Statustics on Educational Attainment in the United States, 1940 to 2000: tables
-Data Source: US census: Percent population 25 years and older with high school diploma or highter and bachelar degree and higher in US between 1940 to 2000. Table 1 and 2. In repo titled as "Historical_edu_attainmentinUS_Bachelors.xls" and "Historical_edu_attainmentinUS_Highschool.xls". For ease of data use of the project, both tables are manually combined and titled as "historical_edu_attainment_percent.csv"
+<b>A Half - Centry of Learning: Historical Statustics on Educational Attainment in the United States, 1940 to 2000: tables  </b>
+Data Source: US census: Percent population 25 years and older with high school diploma or highter and bachelar degree and higher in US between 1940 to 2000. Table 1 and 2. In repo titled as "Historical_edu_attainmentinUS_Bachelors.xls" and "Historical_edu_attainmentinUS_Highschool.xls". For ease of data use of the project, both tables are manually combined and titled as "historical_edu_attainment_percent.csv"  
 
-Time span: 1940 to 2000
-Geographical coverage: U.S.
-Link:https://www.census.gov/data/tables/time-series/demo/educational-attainment/educational-attainment-1940-2000.html
+Time span: 1940 to 2000  
+Geographical coverage: U.S.  
+Link:https://www.census.gov/data/tables/time-series/demo/educational-attainment/educational-attainment-1940-2000.html  
 
 
