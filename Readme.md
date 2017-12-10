@@ -58,11 +58,8 @@ In order to execute the html, run the server localy by using the following comma
 -m http.server <local host address>
 
 
-## technology used
+## Contributors
 
-
-
-Contributors:
 
 Daniel Saw      | https://github.com/dsdata1
 
