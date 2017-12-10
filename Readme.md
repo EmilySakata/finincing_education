@@ -1,5 +1,3 @@
-Readme.md
-
 ## Financing Education 
 
 ## Background
@@ -23,9 +21,24 @@ As a result of the education, are we able to achieve the level of income to sust
 
 In order to understand how education is financed, and what type of impact it has to the targeted demographics, we broke our analysis down into three category of areas to answer the above questions.
 
+1) Education spending trend  
+Key questions:
 
+  - How important is the education in relations to public policy?
+  - What is the souce of education funcing?
 
+2) Education equality and effectiveness
+Key questions:
 
+  - Are all US citizens receiving education equally?
+  - What type of education are they receiving? Teacher effectiveness?
+
+3) Education funding effectiveness
+Key questions:
+
+  - How much student loans are students taking out?
+  - What percentage of household income is spent on education?
+  - What is the outcome of education? How much does education impact the future income?
 
 
 Here are the high level steps we took to analyze the data: 
@@ -79,17 +92,15 @@ Denis Sorokin 	| https://github.com/xprntl
 - Jupyter notebook
 - Machine learning ( Linear regression)
 
-
-
 ## data souce:
 
 
 Educational attainment of the population 18 years and over, by age, sex, race, and hispanic origin
 
-Data Source: US census 
-Description of available measures: Information on educational attainment, for over 18 years of age on all races.
-Time span: 2016
-Geographical coverage: U.S.
-Link: https://www.census.gov/data/tables/2016/demo/education-attainment/cps-detailed-tables.html
+-Data Source: US census  
+-Description of available measures: Information on educational attainment, for over 18 years of age on all races.  
+-Time span: 2016  
+-Geographical coverage: U.S.  
+-Link: https://www.census.gov/data/tables/2016/demo/education-attainment/cps-detailed-tables.html  
 
 
