@@ -10,6 +10,30 @@ Are government effictive in providing equal opportunity for all citizens to get 
 With the ammount of money our government spend, are citizens receiving the level of quality services?
 As a result of the education, are we able to achieve the level of income to sustain our living?
 
+In order to answer to those high level questions, we grouped our data analysis into below 3 categories: 
+
+1) Education spending trend  
+Key questions:
+ 
+   - How important is the education in relations to public policy?
+   - What is the souce of education funcing?
+ 
+ 2) Education equality and effectiveness
+ Key questions:
+  		  
+   - Are all US citizens receiving education equally?
+   - What type of education are they receiving? Teacher effectiveness?
+ 		  
+ 3) Education funding effectiveness
+ Key questions:
+  		  
+   - How much student loans are students taking out?
+   - What percentage of household income is spent on education?
+   - What is the outcome of education? How much does education impact the future income?
+  		  
+  		  
+  Here are the high level steps we took to analyze the data: 		
+
 
 
 
@@ -97,7 +121,7 @@ Geographical coverage: U.S.
 Link:https://www.census.gov/data/tables/time-series/demo/educational-attainment/educational-attainment-1940-2000.html  
 
 
-<b>A Half - College enrollment in the United States from 1965 to 2015 and projections up to 2026 for public and private colleges (in millions)  </b>
+<b>College enrollment in the United States from 1965 to 2015 and projections up to 2026 for public and private colleges (in millions)  </b>
 Data Source: NCES  
 escription of available measures: College enrollment data for public and private schools in US.
 Time span: 1965-2015  
