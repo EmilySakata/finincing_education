@@ -1,5 +1,3 @@
-Readme.md
-
 ## Financing Education 
 
 ## Background
@@ -92,10 +90,18 @@ Link: https://www.census.gov/data/tables/2016/demo/education-attainment/cps-deta
 
 
 <b>A Half - Centry of Learning: Historical Statustics on Educational Attainment in the United States, 1940 to 2000: tables  </b>
-Data Source: US census: Percent population 25 years and older with high school diploma or highter and bachelar degree and higher in US between 1940 to 2000. Table 1 and 2. In repo titled as "Historical_edu_attainmentinUS_Bachelors.xls" and "Historical_edu_attainmentinUS_Highschool.xls". For ease of data use of the project, both tables are manually combined and titled as "historical_edu_attainment_percent.csv"  
-
+Data Source: US census:   
+escription of available measures: Percent population 25 years and older with high school diploma or highter and bachelar degree and higher in US between 1940 to 2000. Table 1 and 2. In repo titled as "Historical_edu_attainmentinUS_Bachelors.xls" and "Historical_edu_attainmentinUS_Highschool.xls". For ease of data use of the project, both tables are manually combined and titled as "historical_edu_attainment_percent.csv"  
 Time span: 1940 to 2000  
 Geographical coverage: U.S.  
 Link:https://www.census.gov/data/tables/time-series/demo/educational-attainment/educational-attainment-1940-2000.html  
+
+
+<b>A Half - College enrollment in the United States from 1965 to 2015 and projections up to 2026 for public and private colleges (in millions)  </b>
+Data Source: NCES  
+escription of available measures: College enrollment data for public and private schools in US.
+Time span: 1965-2015  
+Geographical coverage: U.S.    
+Link: https://www.statista.com/statistics/183995/us-college-enrollment-and-projections-in-public-and-private-institutions/
 
 
