@@ -18,13 +18,13 @@ Key questions:
    - How important is the education in relations to public policy?
    - What is the souce of education funcing?
  
- 2) Education equality and effectiveness
+ 2) Education equality and effectiveness  
  Key questions:
   		  
    - Are all US citizens receiving education equally?
    - What type of education are they receiving? Teacher effectiveness?
  		  
- 3) Education funding effectiveness
+ 3) Education funding effectiveness  
  Key questions:
   		  
    - How much student loans are students taking out?
