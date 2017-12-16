@@ -16,7 +16,7 @@ In order to answer to those high level questions, we grouped our data analysis i
 Key questions:
  
    - How important is the education in relations to public policy?
-   - What is the souce of education funcing?
+   - What is the source of education funding?
  
  2) Education equality and effectiveness  
  Key questions:
