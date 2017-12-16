@@ -128,4 +128,8 @@ Time span: 1965-2015
 Geographical coverage: U.S.    
 Link: https://www.statista.com/statistics/183995/us-college-enrollment-and-projections-in-public-and-private-institutions/
 
-
+<b> Public and private expenditure on educational institutions as a percentage of GDP</b>
+ Data Source: OECD
+ Description of available measures: Public and Private spending on education as percentage of GDP for various countries
+ Time span: 2013
+ Link: http://www.oecd-ilibrary.org/education/education-at-a-glance-2016_eag-2016-en
