@@ -222,3 +222,15 @@ Description: Census data
 Time Span:
 Link: https://www.census.gov/data.html
 
+<b>Student Loans by State</b>
+Data Source: college-insight
+Description: data on studentloans, graduation level, average debt by state
+Time Span: 2010-15
+ Link: http://college-insight.org/#explore/go&h=20b58c75248e62c2bfd642dd2cc35c0e
+ Link: http://college-insight.org/#explore/go&h=390205a77fbe809c34e44b4c9de3ee9d
+ 
+ <b> Income level vs educational attainment </b>
+ Data source: nces
+ Time Span: 2000-15
+ Description: data on income level and education attainment
+ Link: https://nces.ed.gov/programs/coe/indicator_cba.asp
