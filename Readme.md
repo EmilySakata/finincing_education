@@ -195,3 +195,15 @@ Description: Revenues and expenditures for U.S. grade school, by year and state
 Time span: 1993 to 2015
 Link: https://www.kaggle.com/noriuk/us-educational-finances
 
+<b>County-Level Data Sets</b>
+Data Source: USDA
+Description: Unempolyment and medium household income as well as population estamates and educational attainment data
+Time Span: 1970-2015
+Link: https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/
+
+
+<b> Local Education Agency Finance Survey </b>
+Data Source: IES>NCES
+Description: Revenue Expenditure data for all school districts in the US
+Time Span: 1989-2014
+Link: https://nces.ed.gov/ccd/f33agency.asp
