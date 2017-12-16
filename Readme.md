@@ -133,3 +133,15 @@ Link: https://www.statista.com/statistics/183995/us-college-enrollment-and-proje
  Description of available measures: Public and Private spending on education as percentage of GDP for various countries
  Time span: 2013
  Link: http://www.oecd-ilibrary.org/education/education-at-a-glance-2016_eag-2016-en
+ 
+ <b> Unemployment rate by Educational Attainment </b>
+ Data Source: BLS
+ Description of available measures: Unemployment rates vs various level of educational in the US over time
+ Time span: 2005-2015
+ Link: https://www.bls.gov/opub/ted/2015/unemployment-rates-by-educational-attainment-in-april-2015.htm
+ 
+ <b>Graduation Rate</b>
+ Date Source: NCHEMS
+ Description of available measures: Graduation rate by state over the year
+ Time span: 2010-2015
+Link: http://www.higheredinfo.org/dbrowser/index.php?measure=19
