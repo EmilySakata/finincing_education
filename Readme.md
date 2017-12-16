@@ -145,3 +145,24 @@ Link: https://www.statista.com/statistics/183995/us-college-enrollment-and-proje
  Description of available measures: Graduation rate by state over the year
  Time span: 2010-2015
 Link: http://www.higheredinfo.org/dbrowser/index.php?measure=19
+
+
+<b>Education Inequality Report</b>
+Data Source: NIH
+Description: Inequality in Teaching and Schooling: How opportunity is Rationed to Students of Color in America
+Time span: 2001
+Link: https://www.ncbi.nlm.nih.gov/books/NBK223640/
+
+<b> Civil Rights Data Collection</b>
+ Data Source: CRDC
+ Description: The CRDC collects a variety of information including student enrollment and educational programs and services, most of which is disaggregated by race/ethnicity, sex, limited English proficiency, and disability.  
+ Time span: 2013-2014
+ Link: https://www2.ed.gov/about/offices/list/ocr/docs/crdc-2013-14.html
+              
+ <b>US college Enrollment Statistics for Public and Private Colleges</b>
+ Data Source: Statista
+ Description: College enrollement for Public and private and public colleges over the year with forecast to 2026
+ Time span: 1965 to 2014
+ Link: https://www.statista.com/statistics/183995/us-college-enrollment-and-projections-in-public-and-private-institutions/
+              
+      
