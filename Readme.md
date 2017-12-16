@@ -104,7 +104,8 @@ Denis Sorokin 	| https://github.com/xprntl
 - HTML,CSS
 
 
-Tableau Link: https://public.tableau.com/profile/daniel.saw#!/
+### Tableau Plots: https://public.tableau.com/profile/daniel.saw#!/
+### Google Data Studio Dashboard: https://datastudio.google.com/open/1pEZmEvqqxTswo-Of00xgNf0iaw73oWcl
 
 ## Data Source:
 
