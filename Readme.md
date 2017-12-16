@@ -165,4 +165,29 @@ Link: https://www.ncbi.nlm.nih.gov/books/NBK223640/
  Time span: 1965 to 2014
  Link: https://www.statista.com/statistics/183995/us-college-enrollment-and-projections-in-public-and-private-institutions/
               
-      
+<b> Primary & Secondary Education </b>
+Data Source: Our World in Data
+Description: This data is concerned with Primary and Secondary Education
+Time span: 1970 to 2016
+Link: https://ourworldindata.org/primary-and-secondary-education
+
+<b> Primary Completion rate </b>
+Data Source: UNESCO
+Description: Primary completion rate by relevant age group
+Time span: 1970 to 2016
+Link: https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS
+
+
+
+<b>Inequality at School</b>
+Data Source: American Psychological Association
+Description: What's behind the racial disparity in our Education System?
+Time span: 2016
+Link: http://www.apa.org/monitor/2016/11/cover-inequality-school.aspx
+
+<b> US Educational Finances </b>
+Data Source: Kaggle
+Description: Revenues and expenditures for U.S. grade school, by year and state
+Time span: 1993 to 2015
+Link: https://www.kaggle.com/noriuk/us-educational-finances
+
