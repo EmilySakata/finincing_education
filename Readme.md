@@ -207,3 +207,17 @@ Data Source: IES>NCES
 Description: Revenue Expenditure data for all school districts in the US
 Time Span: 1989-2014
 Link: https://nces.ed.gov/ccd/f33agency.asp
+
+
+<b>CIVIL RIGHTS DATA COLLECTION</b>
+ Data Source: CRDA
+ Descriptions: Key data highlights on Equity and opportunity gaps in our nation's public schools
+ Time Span: 2013-14
+Link: https://www2.ed.gov/about/offices/list/ocr/docs/2013-14-first-look.pdf
+
+<b> Census Data </b>
+Data Source: US Census
+Description: Census data
+Time Span:
+Link: https://www.census.gov/data.html
+
