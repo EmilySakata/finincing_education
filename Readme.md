@@ -94,10 +94,11 @@ Denis Sorokin 	| https://github.com/xprntl
 
 ## Technology Used
 
-- Postgres
-- csv, excel
-- Jupyter notebook
-- Machine learning ( Linear regression)
+- Postgres SQL
+- Python
+- Excel, csv
+- Jupyter Notebook
+- Machine Learning ( Linear regression)
 - Google Data Studio
 - Tableau
 - HTML,CSS
