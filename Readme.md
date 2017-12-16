@@ -92,16 +92,19 @@ Denis Sorokin 	| https://github.com/xprntl
 -------------------------------------------------------------
 
 
-## technology used
+## Technology Used
 
 - Postgres
-- csv
+- csv, excel
 - Jupyter notebook
 - Machine learning ( Linear regression)
+- Google Data Studio
+- Tableau
+- HTML,CSS
 
 
 
-## data souce:
+## Data Source:
 
 
 <b>Educational attainment of the population 18 years and over, by age, sex, race, and hispanic origin</b>
