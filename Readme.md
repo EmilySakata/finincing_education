@@ -35,13 +35,6 @@ Key questions:
   Here are the high level steps we took to analyze the data: 		
 
 
-
-
-
-![ScatterPlot.png](https://github.com/EmilySakata/d3_census/blob/master/ScatterPlot.png)
-
-
-
 In order to understand how education is financed, and what type of impact it has to the targeted demographics, we broke our analysis down into three category of areas to answer the above questions.
 
 
@@ -63,7 +56,7 @@ Each contributor had different technologies they used to visualize the data gath
 
 
 For summary presentation, please view the following presentation:
-https://docs.google.com/presentation/d/10GkwZOClFdIaDLJMI0RAoVI3n4yZPmmWfEDGH9L-SYM/edit?usp=sharing
+#### Presentation:https://docs.google.com/presentation/d/10GkwZOClFdIaDLJMI0RAoVI3n4yZPmmWfEDGH9L-SYM/edit?usp=sharing
 
 
 ## Contributors
