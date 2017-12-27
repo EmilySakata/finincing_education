@@ -38,7 +38,6 @@ Key questions:
 
 
 
-* placeholder for a good data visualization image 
 ![ScatterPlot.png](https://github.com/EmilySakata/d3_census/blob/master/ScatterPlot.png)
 
 
@@ -52,30 +51,19 @@ Here are the high level steps we took to analyze the data:
 
 1) Data gathering
 
-Look for demographic information using the 2014 one-year estimates from the U.S. Census Bureau's American Community Survey. You can specify your information using the American FactFinder tool. When searching through the data, be sure to select these options in the left sidebar(http://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml):
-Topics -> Dataset -> 2014 ACS 1-year estimates
-Geographies -> Select a geographic type -> State - 040 -> All States within United States and Puerto Rico
-
-Next, you'll search for data on health risks using 2014 survey data from the Behavioral Risk Factor Surveillance System. 
-(https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-2014-Overall/5ra3-ixqq)
+We gathered data from various data sources online and put a reference below in the data source section. Please refer to the data source we used in our data analysis performed. 
 
 2) Data formatting
 
-For the two data types chosen, grab the value columns from each and paste them into a new Excel document. Create header names that you can easily call with JavaScript (concise, lowercased, camelCased). Make sure that your rows and columns line up—You may need to delete Guam from your datasheet so that your Census and BRFSS data matches.
+Many data source had its own data formatting, with specific columne naming standard, and the data type we used. In order to perform our analysis, we used primary keys such as date / year, country, state name to merge our data to do corrolation analysis, and to understand and derive meaningful observation of the data. 
 
-3) Visualization
+3) Visualization and consolidation 
 
-Create a scatter plot that represents each state with circle elements. 
-Scatter plot has:
-  The x-values of the circles should match the demographic census data, while the y-values should represent the risk data.
-  Include state abbreviations in the circles.
+Each contributor had different technologies they used to visualize the data gathered. Please refer to html page for final visualizaiton and consolidation of the data analytics performed. 
 
-4) iframe-html
 
-Embed it in index.html with an iframe to plot your d3 scatter plot. 
-
-In order to execute the html, run the server localy by using the following command in your terminal
--m http.server <local host address>
+For summary presentation, please view the following presentation:
+https://docs.google.com/presentation/d/10GkwZOClFdIaDLJMI0RAoVI3n4yZPmmWfEDGH9L-SYM/edit?usp=sharing
 
 
 ## Contributors
